@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Mucit'in github yerleskesi]]></title>
+  <title><![CDATA[Mucit'in github yerleşkesi]]></title>
   <link href="http://mucit.github.com/atom.xml" rel="self"/>
   <link href="http://mucit.github.com/"/>
-  <updated>2013-01-27T23:57:34+02:00</updated>
+  <updated>2013-01-28T00:00:09+02:00</updated>
   <id>http://mucit.github.com/</id>
   <author>
     <name><![CDATA[Mucit]]></name>
