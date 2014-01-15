@@ -7,6 +7,7 @@
 
 [Wildcard]
 *://t.co/*
+*tumblr.com*
 
 
 [RegExp]
