@@ -8,6 +8,7 @@
 [Wildcard]
 *://t.co/*
 *tumblr.com*
+*imgur.com*
 
 
 [RegExp]
