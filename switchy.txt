@@ -6,11 +6,10 @@
 #BEGIN
 
 [Wildcard]
-*://chrome.google.com/*
-*://*.samabox.com/*
+*://t.co/*
+
 
 [RegExp]
-^http://code\.google\.com/.*
 youtube
 
 #END
