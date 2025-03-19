@@ -1,6 +1,6 @@
 ; Summary: Example Rule List
 ; Author: Mhd Hejazi (my@email)
-; Date: 2010-01-20
+; Date: 2010-01-20 mx
 ; URL: http://samabox.com/projects/chrome/switchy/switchyrules.txt
 
 #BEGIN
